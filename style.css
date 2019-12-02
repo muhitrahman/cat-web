@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color: #FBAED2;
+}
+
+body { 
+   
+    position: fixed;
+    bottom: 30px;
+    left: 5px;
+}
+h1{
+font-size:10; 
+}
+
+.title{
+border-bottom: 8px solid #57c4d0;
+}
+
+.vertical-line {
+    border-right: 8px solid #ff0000;
+}

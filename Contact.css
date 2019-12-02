@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	
+	background:#F58D8F;
+}
+
+.container{
+	width:800px;
+	margin:30px auto 0;
+}
+#content{
+	text-align:center;
+	background: #848c9c;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
